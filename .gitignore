@@ -1,0 +1,26 @@
+Thumb.db
+*~
+
+#####
+# Altium
+#####
+History
+*.SchDocPreview
+*.*DocPreview
+*.*Preview
+
+# Reporting Files
+*.LOG
+*.drc
+*.html
+
+# Others
+*.orig
+*.*_viewstate
+
+# Backups
+*.SchDoc.Zip
+*.PcbDoc.Zip
+*.PrjDoc.Zip
+*.PcbLib.Zip
+*.SchLib.Zip
