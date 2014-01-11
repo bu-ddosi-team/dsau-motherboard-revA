@@ -12,6 +12,8 @@
 ### PcbLib
 
 - VQFN64 (for ADS62P49)
+- FCI_61083-101400LF
+- MicroZed Mating Side
 
 ### SchLib
 
