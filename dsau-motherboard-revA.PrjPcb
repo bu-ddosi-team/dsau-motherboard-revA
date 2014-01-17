@@ -86,17 +86,47 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Parameter1]
-Name=email
-Value=<cwoodall@bu.edu>
+[Document5]
+DocumentPath=src\dsau-adc.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
 
-[Parameter2]
+[Document6]
+DocumentPath=src\dsau-adc-frontend.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Parameter1]
 Name=Revision
 Value=A
 
-[Parameter3]
+[Parameter2]
 Name=Engineer
 Value=Christopher J. Woodall
+
+[Parameter3]
+Name=email
+Value=<cwoodall@bu.edu>
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -858,6 +888,36 @@ NetClassManualEnabled=1
 [LibraryUpdateOptions]
 SelectedOnly=0
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=dsau-motherboard.SchLib
+ComponentDesignItemID0=ADS62P49
+ComponentSymbolReference0=ADS62P49
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=dsau-motherboard.SchLib
+ComponentDesignItemID1=Balun_Pulse_CX2156NL
+ComponentSymbolReference1=Balun_Pulse_CX2156NL
+ComponentUpdate1=0
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=Miscellaneous Connectors.IntLib
+ComponentDesignItemID2=SMB
+ComponentSymbolReference2=SMB
+ComponentUpdate2=0
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=Miscellaneous Devices.IntLib
+ComponentDesignItemID3=Cap
+ComponentSymbolReference3=Cap
+ComponentUpdate3=0
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=Miscellaneous Devices.IntLib
+ComponentDesignItemID4=Res3
+ComponentSymbolReference4=Res3
+ComponentUpdate4=0
+ComponentIsDeviceSheet4=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -869,6 +929,81 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=LatestRevisionDate
+ParameterUpdate3=1
+ParameterName4=LatestRevisionNote
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=PackageDescription
+ParameterUpdate6=1
+ParameterName7=PackageReference
+ParameterUpdate7=1
+ParameterName8=Published
+ParameterUpdate8=1
+ParameterName9=Publisher
+ParameterUpdate9=1
+ParameterName10=Supplier 1
+ParameterUpdate10=1
+ParameterName11=Value
+ParameterUpdate11=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CAPR2.54-5.1x3.2
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=CAPR5.08-7.8x3.2
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=CX2156NL_SMD5
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=RAD-0.3
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=RESC1608L
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=RESC3225L
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=RESC5025L
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=RESC6332L
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=SMB_V-RJ45
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=VQFN-64
+ModelUpdate9=1
+ModelTypeGroup1=SI
+ModelTypeUpdate1=1
+ModelType10=SI
+ModelName10=Cap
+ModelUpdate10=1
+ModelType11=SI
+ModelName11=Connector
+ModelUpdate11=1
+ModelType12=SI
+ModelName12=Res
+ModelUpdate12=1
+ModelTypeGroup2=SIM
+ModelTypeUpdate2=1
+ModelType13=SIM
+ModelName13=CAP
+ModelUpdate13=1
+ModelType14=SIM
+ModelName14=RESISTOR
+ModelUpdate14=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
