@@ -27,7 +27,7 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 
 [Document1]
-DocumentPath=lib\dsau-motherboard.SchLib
+DocumentPath=src\dsau-motherboard-top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -42,7 +42,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document2]
-DocumentPath=lib\dsau-motherboard.PcbLib
+DocumentPath=template\LetterTemplateTeam19.SchDot
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -57,7 +57,7 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document3]
-DocumentPath=src\dsau-motherboard-top.SchDoc
+DocumentPath=lib\dsau-motherboard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,6 +70,33 @@ ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
+
+[Document4]
+DocumentPath=lib\dsau-motherboard.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Parameter1]
+Name=email
+Value=<cwoodall@bu.edu>
+
+[Parameter2]
+Name=Revision
+Value=A
+
+[Parameter3]
+Name=Engineer
+Value=Christopher J. Woodall
 
 [OutputGroup1]
 Name=Netlist Outputs
