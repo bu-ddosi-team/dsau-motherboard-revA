@@ -28,7 +28,7 @@ DItemRevisionGUID=
 
 [Document1]
 DocumentPath=src\dsau-power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -43,7 +43,7 @@ DItemRevisionGUID=
 
 [Document2]
 DocumentPath=src\dsau-motherboard-top.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -88,7 +88,7 @@ DItemRevisionGUID=
 
 [Document5]
 DocumentPath=src\dsau-adc.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -118,7 +118,7 @@ DItemRevisionGUID=
 
 [Document7]
 DocumentPath=src\dsau-adc-frontend.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -133,7 +133,7 @@ DItemRevisionGUID=
 
 [Document8]
 DocumentPath=src\dsau-dds-connector.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -163,7 +163,7 @@ DItemRevisionGUID=
 
 [Document10]
 DocumentPath=src\dsau-micro-zed.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -178,7 +178,7 @@ DItemRevisionGUID=
 
 [Document11]
 DocumentPath=src\dsau-micro-zed-bank34.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -208,7 +208,7 @@ DItemRevisionGUID=
 
 [Document13]
 DocumentPath=src\dsau-micro-zed-bank35.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
