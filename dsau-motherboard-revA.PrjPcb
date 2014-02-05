@@ -27,6 +27,21 @@ PushECOToAnnotationFile=1
 DItemRevisionGUID=
 
 [Document1]
+DocumentPath=lib\dsau_power.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document2]
 DocumentPath=src\dsau-power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -41,7 +56,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document2]
+[Document3]
 DocumentPath=src\dsau-motherboard-top.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +71,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document3]
+[Document4]
 DocumentPath=lib\dsau-motherboard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document4]
+[Document5]
 DocumentPath=lib\dsau-motherboard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -86,7 +101,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document5]
+[Document6]
 DocumentPath=src\dsau-adc.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,7 +116,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document6]
+[Document7]
 DocumentPath=src\dsau-adc.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document7]
+[Document8]
 DocumentPath=src\dsau-adc-frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -131,7 +146,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document8]
+[Document9]
 DocumentPath=src\dsau-dds-connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -146,7 +161,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document9]
+[Document10]
 DocumentPath=src\dsau-dds-connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,7 +176,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document10]
+[Document11]
 DocumentPath=src\dsau-micro-zed.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +191,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document11]
+[Document12]
 DocumentPath=src\dsau-micro-zed-bank34.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +206,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document12]
+[Document13]
 DocumentPath=src\dsau-micro-zed-bank34.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +221,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document13]
+[Document14]
 DocumentPath=src\dsau-micro-zed-bank35.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +236,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document14]
+[Document15]
 DocumentPath=src\dsau-micro-zed-bank35.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +251,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document15]
+[Document16]
 DocumentPath=src\dsau-interfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,8 +266,1028 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document16]
+[Document17]
 DocumentPath=dsau-motherboard-revA.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document18]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Miscellaneous Connectors.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document19]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Miscellaneous Devices.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document20]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Analog Comparator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document21]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Analog Current Mirror.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document22]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Analog Timer Circuit.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document23]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Audio Sound Generator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document24]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Communication Interface.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document25]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Communication Sonar.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document26]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Communication Transceiver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document27]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Converter Analog to Digital.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document28]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Converter CODEC DSL.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document29]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Converter CODEC Voice-Band.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document30]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Converter Digital to Analog.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document31]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Converter Frequency to Voltage.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document32]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Crystal Oscillator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document33]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Differential Amplifier.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document34]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Digital Signal Processor 16-Bit.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document35]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Digital Signal Processor 32-Bit.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document36]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface 8-Bit Line Transceiver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document37]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface Darlington Driver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document38]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface Display Driver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document39]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface Line Driver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document40]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface Line Receiver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document41]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface Line Transceiver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document42]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface MOSFET Driver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document43]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface Peripheral Driver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document44]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Interface Touch Screen Controller.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document45]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logarithmic Amplifier.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document46]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Arithmetic.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document47]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Boundary Scan.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document48]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Buffer Line Driver.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document49]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Clock Clock Support.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document50]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Comparator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document51]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Counter.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document52]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Decoder Demux.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document53]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic EDAC.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document54]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Flip-Flop.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document55]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Gate 1.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document56]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Gate 2.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document57]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Latch.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document58]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Memory Mapper.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document59]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Multifunction.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document60]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Multiplexer.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document61]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Multivibrator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document62]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Parity Gen Check Detect.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document63]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Register.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document64]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Switch.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document65]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Logic Translator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document66]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Memory Dynamic RAM.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document67]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Memory EEPROM.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document68]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Memory EPROM.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document69]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Memory PROM.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document70]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Microcontroller 32-Bit ARM.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document71]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Operational Amplifier.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document72]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Peripheral Bus Interface Controller.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document73]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Peripheral Graphics Display Controller.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document74]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt Charge Pump.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document75]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt DC-DC Converter.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document76]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt Power Controller.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document77]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt Supervisory Circuit.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document78]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt Switching Regulator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document79]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt Voltage Detector.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document80]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt Voltage Reference.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document81]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Power Mgt Voltage Regulator.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document82]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Switched Capacitor Filter.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document83]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Video Amplifier.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document84]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Video Colour Decoder Circuit.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document85]
+DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Texas Instruments\TI Voltage Controlled Oscillator.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -312,7 +1347,7 @@ SaveSettingsToOutJob=-1
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Nitro PDF Creator (Pro 8)
+TargetPrinter=\\myprint.ad.bu.edu\stuvi2-ss
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -443,7 +1478,7 @@ OutputDefault25=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Nitro PDF Creator (Pro 8)
+TargetPrinter=\\myprint.ad.bu.edu\stuvi2-ss
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -464,7 +1499,7 @@ OutputDefault3=0
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Nitro PDF Creator (Pro 8)
+TargetPrinter=\\myprint.ad.bu.edu\stuvi2-ss
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -524,7 +1559,7 @@ PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Nitro PDF Creator (Pro 8)
+TargetPrinter=\\myprint.ad.bu.edu\stuvi2-ss
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -546,7 +1581,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Nitro PDF Creator (Pro 8)
+TargetPrinter=\\myprint.ad.bu.edu\stuvi2-ss
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -602,7 +1637,7 @@ OutputDefault9=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Nitro PDF Creator (Pro 8)
+TargetPrinter=\\myprint.ad.bu.edu\stuvi2-ss
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -651,7 +1686,7 @@ OutputDefault8=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Nitro PDF Creator (Pro 8)
+TargetPrinter=\\myprint.ad.bu.edu\stuvi2-ss
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1199,7 +2234,7 @@ ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=dsau-motherboard.SchLib
 ComponentDesignItemID1=Balun_Pulse_CX2156NL
 ComponentSymbolReference1=Balun_Pulse_CX2156NL
-ComponentUpdate1=0
+ComponentUpdate1=1
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=dsau-motherboard.SchLib
@@ -1223,30 +2258,30 @@ ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=dsau-motherboard.SchLib
 ComponentDesignItemID5=kingbright_1206_RGBLED
 ComponentSymbolReference5=kingbright_1206_RGBLED
-ComponentUpdate5=0
+ComponentUpdate5=1
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
 ComponentLibraryIdentifier6=dsau-motherboard.SchLib
 ComponentDesignItemID6=MicroZed
 ComponentSymbolReference6=MicroZed
-ComponentUpdate6=0
+ComponentUpdate6=1
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=dsau-motherboard.SchLib
-ComponentDesignItemID7=TESTPOINT_CW
-ComponentSymbolReference7=TESTPOINT_CW
-ComponentUpdate7=0
+ComponentDesignItemID7=SN74LVC244A
+ComponentSymbolReference7=SN74LVC244A
+ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=Miscellaneous Connectors.IntLib
-ComponentDesignItemID8=Header 10X2
-ComponentSymbolReference8=Header 10X2
+ComponentLibraryIdentifier8=dsau-motherboard.SchLib
+ComponentDesignItemID8=TESTPOINT_CW
+ComponentSymbolReference8=TESTPOINT_CW
 ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
 ComponentLibraryIdentifier9=Miscellaneous Connectors.IntLib
-ComponentDesignItemID9=Header 13X2
-ComponentSymbolReference9=Header 13X2
+ComponentDesignItemID9=Header 10X2
+ComponentSymbolReference9=Header 10X2
 ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
@@ -1263,52 +2298,58 @@ ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
 ComponentLibIdentifierKind12=Library Name And Type
 ComponentLibraryIdentifier12=Miscellaneous Connectors.IntLib
-ComponentDesignItemID12=SMB
-ComponentSymbolReference12=SMB
+ComponentDesignItemID12=Header 8X2
+ComponentSymbolReference12=Header 8X2
 ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
 ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=Miscellaneous Devices.IntLib
-ComponentDesignItemID13=Cap Pol3
-ComponentSymbolReference13=Cap Pol3
+ComponentLibraryIdentifier13=Miscellaneous Connectors.IntLib
+ComponentDesignItemID13=SMB
+ComponentSymbolReference13=SMB
 ComponentUpdate13=0
 ComponentIsDeviceSheet13=0
 ComponentLibIdentifierKind14=Library Name And Type
 ComponentLibraryIdentifier14=Miscellaneous Devices.IntLib
-ComponentDesignItemID14=Cap
-ComponentSymbolReference14=Cap
+ComponentDesignItemID14=Cap Pol3
+ComponentSymbolReference14=Cap Pol3
 ComponentUpdate14=0
 ComponentIsDeviceSheet14=0
 ComponentLibIdentifierKind15=Library Name And Type
 ComponentLibraryIdentifier15=Miscellaneous Devices.IntLib
-ComponentDesignItemID15=Inductor Iron
-ComponentSymbolReference15=Inductor Iron
+ComponentDesignItemID15=Cap
+ComponentSymbolReference15=Cap
 ComponentUpdate15=0
 ComponentIsDeviceSheet15=0
 ComponentLibIdentifierKind16=Library Name And Type
 ComponentLibraryIdentifier16=Miscellaneous Devices.IntLib
-ComponentDesignItemID16=LED0
-ComponentSymbolReference16=LED0
+ComponentDesignItemID16=Inductor Iron
+ComponentSymbolReference16=Inductor Iron
 ComponentUpdate16=0
 ComponentIsDeviceSheet16=0
 ComponentLibIdentifierKind17=Library Name And Type
 ComponentLibraryIdentifier17=Miscellaneous Devices.IntLib
-ComponentDesignItemID17=MOSFET-N
-ComponentSymbolReference17=MOSFET-N
+ComponentDesignItemID17=LED0
+ComponentSymbolReference17=LED0
 ComponentUpdate17=0
 ComponentIsDeviceSheet17=0
 ComponentLibIdentifierKind18=Library Name And Type
 ComponentLibraryIdentifier18=Miscellaneous Devices.IntLib
-ComponentDesignItemID18=Res3
-ComponentSymbolReference18=Res3
+ComponentDesignItemID18=MOSFET-N
+ComponentSymbolReference18=MOSFET-N
 ComponentUpdate18=0
 ComponentIsDeviceSheet18=0
 ComponentLibIdentifierKind19=Library Name And Type
 ComponentLibraryIdentifier19=Miscellaneous Devices.IntLib
-ComponentDesignItemID19=SW-PB
-ComponentSymbolReference19=SW-PB
+ComponentDesignItemID19=Res3
+ComponentSymbolReference19=Res3
 ComponentUpdate19=0
 ComponentIsDeviceSheet19=0
+ComponentLibIdentifierKind20=Library Name And Type
+ComponentLibraryIdentifier20=Miscellaneous Devices.IntLib
+ComponentDesignItemID20=SW-PB
+ComponentSymbolReference20=SW-PB
+ComponentUpdate20=0
+ComponentIsDeviceSheet20=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1338,26 +2379,32 @@ ParameterName7=LatestRevisionNote
 ParameterUpdate7=1
 ParameterName8=Library Reference
 ParameterUpdate8=1
-ParameterName9=Mouser
+ParameterName9=Manufacturer
 ParameterUpdate9=1
-ParameterName10=PackageDescription
+ParameterName10=Manufacturer Part Number
 ParameterUpdate10=1
-ParameterName11=PackageReference
+ParameterName11=Mouser
 ParameterUpdate11=1
-ParameterName12=PackageVersion
+ParameterName12=PackageDescription
 ParameterUpdate12=1
-ParameterName13=Published
+ParameterName13=PackageReference
 ParameterUpdate13=1
-ParameterName14=Publisher
+ParameterName14=PackageVersion
 ParameterUpdate14=1
-ParameterName15=Supplier 1
+ParameterName15=Published
 ParameterUpdate15=1
-ParameterName16=Supplier Part Number 1
+ParameterName16=Publisher
 ParameterUpdate16=1
-ParameterName17=This component is made up of two parts, the Microzed and the FCI connecter it connects with. Supplier 1 contians the microzed Supplier 2 contains the connector
+ParameterName17=Supplier 1
 ParameterUpdate17=1
-ParameterName18=Value
+ParameterName18=Supplier Part Number
 ParameterUpdate18=1
+ParameterName19=Supplier Part Number 1
+ParameterUpdate19=1
+ParameterName20=This component is made up of two parts, the Microzed and the FCI connecter it connects with. Supplier 1 contians the microzed Supplier 2 contains the connector
+ParameterUpdate20=1
+ParameterName21=Value
+ParameterUpdate21=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1403,7 +2450,7 @@ ModelType13=PCBLIB
 ModelName13=HDR2X10
 ModelUpdate13=1
 ModelType14=PCBLIB
-ModelName14=HDR2X13
+ModelName14=HDR2X8
 ModelUpdate14=1
 ModelType15=PCBLIB
 ModelName15=LED-0
@@ -1436,42 +2483,45 @@ ModelType24=PCBLIB
 ModelName24=SPST-2
 ModelUpdate24=1
 ModelType25=PCBLIB
-ModelName25=VQFN-64
+ModelName25=TSOP64P640X120-20N
 ModelUpdate25=1
+ModelType26=PCBLIB
+ModelName26=VQFN-64
+ModelUpdate26=1
 ModelTypeGroup1=SI
 ModelTypeUpdate1=1
-ModelType26=SI
-ModelName26=Cap
-ModelUpdate26=1
 ModelType27=SI
-ModelName27=Cap Pol
+ModelName27=Cap
 ModelUpdate27=1
 ModelType28=SI
-ModelName28=Connector
+ModelName28=Cap Pol
 ModelUpdate28=1
 ModelType29=SI
-ModelName29=Inductor Iron
+ModelName29=Connector
 ModelUpdate29=1
 ModelType30=SI
-ModelName30=Res
+ModelName30=Inductor Iron
 ModelUpdate30=1
+ModelType31=SI
+ModelName31=Res
+ModelUpdate31=1
 ModelTypeGroup2=SIM
 ModelTypeUpdate2=1
-ModelType31=SIM
-ModelName31=CAP
-ModelUpdate31=1
 ModelType32=SIM
-ModelName32=INDUCTOR
+ModelName32=CAP
 ModelUpdate32=1
 ModelType33=SIM
-ModelName33=LED0
+ModelName33=INDUCTOR
 ModelUpdate33=1
 ModelType34=SIM
-ModelName34=NMOS
+ModelName34=LED0
 ModelUpdate34=1
 ModelType35=SIM
-ModelName35=RESISTOR
+ModelName35=NMOS
 ModelUpdate35=1
+ModelType36=SIM
+ModelName36=RESISTOR
+ModelUpdate36=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
