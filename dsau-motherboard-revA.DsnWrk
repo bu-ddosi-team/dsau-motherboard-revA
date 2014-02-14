@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=dsau-motherboard-revA.PrjPcb
+[Project2]
+ProjectPath=..\..\Downloads\dsau_motherboard_power\dsau_motherboard_power.PrjPcb
