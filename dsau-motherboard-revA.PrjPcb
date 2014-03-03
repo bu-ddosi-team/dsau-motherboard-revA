@@ -117,36 +117,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
 [Document7]
-DocumentPath=src\dsau-adc.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document8]
-DocumentPath=src\dsau-adc.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-
-[Document9]
 DocumentPath=src\dsau-adc-frontend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,7 +131,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document10]
+[Document8]
 DocumentPath=src\dsau-dds-connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +146,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document11]
+[Document9]
 DocumentPath=src\dsau-dds-connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -191,7 +161,22 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document12]
+[Document10]
+DocumentPath=src\dsau-adc.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document11]
 DocumentPath=src\dsau-micro-zed.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -206,7 +191,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document13]
+[Document12]
 DocumentPath=src\dsau-micro-zed-bank34.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +206,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document14]
+[Document13]
 DocumentPath=src\dsau-micro-zed-bank34.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +221,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document15]
+[Document14]
 DocumentPath=src\dsau-micro-zed-bank35.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -251,7 +236,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document16]
+[Document15]
 DocumentPath=src\dsau-micro-zed-bank35.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -266,7 +251,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document17]
+[Document16]
 DocumentPath=pcb\dsau-motherboard-revA-0.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -281,7 +266,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document18]
+[Document17]
 DocumentPath=src\dsau-interfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -296,7 +281,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document19]
+[Document18]
 DocumentPath=dsau-motherboard-revA.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,7 +296,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document20]
+[Document19]
 DocumentPath=lib\3vreg.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +311,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document21]
+[Document20]
 DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Miscellaneous Connectors.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -341,7 +326,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document22]
+[Document21]
 DocumentPath=..\..\..\..\Program Files (x86)\Altium Designer Summer 09\Library\Miscellaneous Devices.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -356,7 +341,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document23]
+[Document22]
 DocumentPath=src\dsau-dds-clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -371,7 +356,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document24]
+[Document23]
 DocumentPath=pcb\dsau-motherboard-revA.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -386,7 +371,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document25]
+[Document24]
 DocumentPath=Project Outputs for dsau-motherboard-revA\CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -401,7 +386,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document26]
+[Document25]
 DocumentPath=Project Outputs for dsau-motherboard-revA\CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -416,8 +401,23 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 
-[Document27]
+[Document26]
 DocumentPath=Project Outputs for dsau-motherboard-revA\CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+
+[Document27]
+DocumentPath=src\dsau-adc.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -833,15 +833,15 @@ PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 Configuration6_Name1=Filter
 Configuration6_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration6_Name2=General
-Configuration6_Item2=OpenExported=False|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=958|FormHeight=645|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration6_Item2=OpenExported=False|AddToProject=True|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=True|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=958|FormHeight=645|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
 Configuration6_Name3=GroupOrder
-Configuration6_Item3=Supplier Part Number 1=True
+Configuration6_Item3=
 Configuration6_Name4=OutputConfigurationParameter1
 Configuration6_Item4=Record=BOMPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False
 Configuration6_Name5=SortOrder
 Configuration6_Item5=Designator=Up
 Configuration6_Name6=VisibleOrder
-Configuration6_Item6=Designator=274|Value=100|Quantity=100|Manufacturer 1=100|Manufacturer Part Number 1=100|Supplier 1=100|Supplier Part Number 1=100|Supplier 2=100|Supplier Part Number 2=100|Description=100
+Configuration6_Item6=Designator=274|Quantity=100|Description=100
 OutputType7=Electrical Rules Check
 OutputName7=Electrical Rules Check
 OutputDocumentPath7=
